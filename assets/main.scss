@@ -3,9 +3,7 @@
 ---
 @charset "utf-8";
 
-@import "bourbon/bourbon";
-@import "base/base";
-@import "neat/neat";
+@import "bootstrap/bootstrap";
 
 // Import partials from the `squire` theme.
 @import "squire";
